@@ -24,7 +24,7 @@ A machine-learning project to predict individual health-insurance premiums based
 4. **Deployment**
    - Saved best model using `joblib`
    - Built and deployed a Streamlit web app for real-time predictions  
-   - ✅ **Live App:** [Click here to try it]([(https://healthcare-insurance-predictor.streamlit.app/)]
+   - ✅ **Live App:** [(https://healthcare-insurance-predictor.streamlit.app/)]
 ))
 
 ---
