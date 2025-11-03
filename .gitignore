@@ -40,11 +40,11 @@ var/
 *.sqlite
 *.h5
 
-# Model files
-*.pkl
-*.h5
-*.joblib
-*.model
+# # Model files
+# *.pkl
+# *.h5
+# *.joblib
+# *.model
 
 # Environment variables
 .env
